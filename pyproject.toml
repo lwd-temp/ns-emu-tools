@@ -16,7 +16,7 @@ beautifulsoup4 = "^4.12.2"
 eel = "^0.16.0"
 pywin32 = "^306"
 psutil = "^5.9.5"
-gevent = "^23.7.0"
+gevent = "^24.2.1"
 httplib2 = "^0.22.0"
 requests-cache = "^1.1.0"
 dnspython = {extras = ["doh"], version = "^2.4.2"}
